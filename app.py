@@ -1,0 +1,1 @@
+print('Testanto o primeiro projeto no Lab_Python')
